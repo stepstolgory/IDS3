@@ -1,7 +1,13 @@
 ---
 title: "Lab 02 - Global plastic waste"
 <<<<<<< HEAD
+<<<<<<< HEAD
 author: "Team Name: User1, User2, User3 and Ryan Quigley"
+=======
+author: "Team Name: Stepan Mikoyan, User2, User3 and User4"
+=======
+author: "Team Name: Stepan Mikoyan, Mason Moir, User3 and User4"
+>>>>>>> 03a3917f413b3a00204d1df1b31a5c103e30f88f
 =======
 author: "Team Name: Stepan Mikoyan, Mason Moir, Sean Wei, and User4"
 >>>>>>> 8266b853aeac653e688d9e3f816e3e355dbda778
