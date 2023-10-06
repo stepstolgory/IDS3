@@ -2,6 +2,7 @@
 title: "Lab 02 - Global plastic waste"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 author: "Team Name: User1, User2, User3 and Ryan Quigley"
 =======
 author: "Team Name: Stepan Mikoyan, User2, User3 and User4"
@@ -11,6 +12,9 @@ author: "Team Name: Stepan Mikoyan, Mason Moir, User3 and User4"
 =======
 author: "Team Name: Stepan Mikoyan, Mason Moir, Sean Wei, and User4"
 >>>>>>> 8266b853aeac653e688d9e3f816e3e355dbda778
+=======
+author: "Team Name: Stepan Mikoyan, Mason Moir, Sean Wei, and User4, Cailean Clubb"
+>>>>>>> a7cb289ff7e64821dd8b4fc76b1dac1a7bdf5ced
 date: "`r Sys.Date()`"
 output: html_document
 ---
